@@ -88,14 +88,7 @@ img {
   font-size: 15px;
 }
 
-.quote::before {
-  content: '”';
-  background: #333;
-  font-family: 'Abril Fatface', cursive;
-  color: white;
-  font-size: 50px;
-  margin-top: 0;
-}
+
 .quote {
   background: #333;
   font-family: 'Abril Fatface', cursive;
