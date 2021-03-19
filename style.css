@@ -23,9 +23,9 @@
 }
 
 #main{
-  height: 1800px;
+  height: 2300px;
   max-width: 700px;
-  background: #333;
+  background: #111;
   display: flex;
   margin-top: 40px;
 }
@@ -57,14 +57,14 @@ img {
 
 #namebox{
   position: relative;
-  top: 290px;
+  top: 370px;
   left: 50px;
   color: #DDD;
-  text-shadow: 2px 2px 10px #000
+  text-shadow: 1px 1px 20px #000;
 }
 
 #name{
-  color: #CCC;
+  color: #DDD;
   padding: 0;
   margin: 0;
   font-size: 50px;
@@ -76,7 +76,7 @@ img {
 }
 
 .summary{
-  padding: 0px 10px 10px 10px;
+  padding: 20px 10px 10px 10px;
   color: #BBB;
   font-family: 'Jura', sans-serif;
   font-size: 15px;
@@ -84,7 +84,7 @@ img {
 }
 
 .boxes{
-  padding: 0px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
   color: #BBB;
   font-family: 'Jura', sans-serif;
   font-size: 15px;
@@ -102,4 +102,11 @@ img {
   padding-top: 20px;
   margin-top: 200px;
  
+}
+h2{
+  color: rgb(46, 216, 151);
+}
+
+h4{
+  color: rgb(88, 137, 230)
 }
